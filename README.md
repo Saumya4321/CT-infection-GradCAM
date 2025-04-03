@@ -27,8 +27,8 @@ The model is a Convolutional Neural Network (CNN) consisting of:
 + Output Layer: A softmax activation layer with three units for multi-class classification.
 
 ## Training
-+ The model is compiled using the Adam optimizer (learning rate = 1e-4) and Focal Loss to handle class imbalance, with accuracy as the evaluation metric.
-+ Model was trained for 8 epochs.
++ The model was compiled using the Adam optimizer (learning rate = 1e-4) and Focal Loss to handle class imbalance, with accuracy as the evaluation metric.
++ Training was carried out for 8 epochs.
   
 ## Results
 
