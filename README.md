@@ -14,6 +14,15 @@ files named train, test and val. These .mat files in turn contained the image da
 Mild infection and sever infection. Example images from the dataset has been shown above for reference.
 
 ## Model architecture
+The model is a Convolutional Neural Network (CNN) consisting of:
+
++ Input Layer: Accepts 224×224 grayscale images (1 channel).
+
++ Convolutional Blocks: Five convolutional layers with increasing filters (64, 128, 256, 512, 1024), each followed by max pooling and dropout (0.1) to prevent overfitting. L2 regularization is applied to all convolutional layers.
+
++ Fully Connected Layers: A flattened output is passed through a dense layer with 512 units (ReLU activation) and dropout (0.3).
+
++ Output Layer: A softmax activation layer with three units for multi-class classification.
 
 ## Results
 
