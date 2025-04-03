@@ -1,6 +1,8 @@
 # Brain CT Infection Classification with Grad-CAM-Based Interpretability
 
 ## Project Overview
+This project proposes a CNN architecture for classifying level of infection in Brain CT images. Interpretability is given by GradCAM. 
+
 
 ## Motivation
 This project was undertaken as an assignment for 'AI in Medical Image Analysis (DS261)' course , offered by the Computational and Data Science Department (CDS) at the Indian Institute of Science.
