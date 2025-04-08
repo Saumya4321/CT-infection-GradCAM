@@ -31,11 +31,16 @@ The model is a Convolutional Neural Network (CNN) consisting of:
 + The model was compiled using the Adam optimizer (learning rate = 1e-4) and Focal Loss to handle class imbalance, with accuracy as the evaluation metric.
 + Training was carried out for 8 epochs.
   
-## Results
-![image](https://github.com/user-attachments/assets/e28d5790-d80d-4331-adcc-ca041912cf4c)
-![image](https://github.com/user-attachments/assets/fdcb89d8-46de-4ccd-8e13-4a17c58d38eb)
-![image](https://github.com/user-attachments/assets/4765ad2f-c389-424c-b6b4-38414220adc5)
-![image](https://github.com/user-attachments/assets/fc6c2184-8dff-4eeb-bdae-2e2bb9f05022)
+## Results of Classification
+#### Training Graph
+![image](https://github.com/user-attachments/assets/2adf6f9d-af61-417a-a603-d6c9c9b7be28)
+
+#### Classification Report
+![image](https://github.com/user-attachments/assets/f52fc7f7-2ae4-4f8f-aa95-d312abd298d6)
+
+#### Confusion matrix
+![image](https://github.com/user-attachments/assets/e2b37301-0029-4d42-b0bd-b632b4ff1b66)
+
 
 
 
