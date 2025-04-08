@@ -29,7 +29,7 @@ The model is a Convolutional Neural Network (CNN) consisting of:
 
 ## Training
 + The model was compiled using the Adam optimizer (learning rate = 1e-4) and Focal Loss to handle class imbalance, with accuracy as the evaluation metric.
-+ Training was carried out for 8 epochs.
++ Training was carried out for 10 epochs.
   
 ## Results of Classification
 #### Training Graph
