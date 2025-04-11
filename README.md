@@ -49,3 +49,5 @@ The model is a Convolutional Neural Network (CNN) consisting of:
 
 
 ## Interpretability using GradCAM
+![image](https://github.com/user-attachments/assets/86acfc13-55f3-439e-b7a1-e12f70a2dd43)
+
