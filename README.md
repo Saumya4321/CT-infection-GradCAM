@@ -47,10 +47,11 @@ The model is a Convolutional Neural Network (CNN) consisting of:
 
 
 ## Interpretability using GradCAM
+<br>
 Grad-CAM was applied to visualize the discriminative regions contributing to the model’s classification decision across varying infection severity levels. 
 The results are presented as triplets: the original MRI slice, the Grad-CAM heatmap, and the overlay.
 ![image](https://github.com/user-attachments/assets/86acfc13-55f3-439e-b7a1-e12f70a2dd43)
-
+<br>
 In the mild infection scenario, the activation regions are more diffuse and spread across multiple small zones. This reflects the subtle and scattered nature of early-stage disease symptoms,
 which the model is attempting to capture.
 ![image](https://github.com/user-attachments/assets/5f188dd5-cebc-47bf-9af8-283291f0f6ea)
