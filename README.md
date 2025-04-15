@@ -48,6 +48,7 @@ The model is a Convolutional Neural Network (CNN) consisting of:
 
 ## Interpretability using GradCAM
 <br>
+
 Grad-CAM was applied to visualize the discriminative regions contributing to the model’s classification decision across varying infection severity levels. 
 The results are presented as triplets: the original MRI slice, the Grad-CAM heatmap, and the overlay.
 
