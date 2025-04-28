@@ -12,7 +12,7 @@ This project was undertaken as an assignment for 'AI in Medical Image Analysis (
 ![image](https://github.com/user-attachments/assets/e00bd5ae-3447-4edd-b8df-5f965d141d94)
 <br>
 <br>
-The datasets were provided by the course coordinator as part of the course. All the datasets can be found in this repo. <add link>. The dataset consists of Brain CT images in three .mat
+The datasets were provided by the course coordinator as part of the course. All the datasets can be found in this [drive link](https://drive.google.com/file/d/1dAipNcsiv03DObxnhFwcaG2mTySoG7Ba/view?usp=sharing). The dataset consists of Brain CT images in three .mat
 files named train, test and val. These .mat files in turn contained the image data and its corresponding label. Three classes of images were present in the dataset - No infection,
 Mild infection and sever infection. Example images from the dataset has been shown above for reference.
 
