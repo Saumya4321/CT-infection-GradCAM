@@ -54,16 +54,13 @@ The results are presented as triplets: the original MRI slice, the Grad-CAM heat
 
 <br>
 
-![Screenshot 2025-04-29 153348](https://github.com/user-attachments/assets/bc265def-7195-4938-99a9-b4953157306f)
 
 
+![Screenshot 2025-04-29 153348](https://github.com/user-attachments/assets/1122781e-85a0-4771-bd8a-984dad9d0106)
 
-![Screenshot 2025-04-29 160626](https://github.com/user-attachments/assets/cd54aa3c-ecf5-4d8e-98aa-993bdf58bd5b)
+![Screenshot 2025-04-29 154726](https://github.com/user-attachments/assets/eda6455c-3477-4ed3-bf45-12d2440dc2c1)
 
-
-
-![Screenshot 2025-04-29 154726](https://github.com/user-attachments/assets/8a94b49e-5ff3-4dbf-b059-d406f127a650)
-
+![Screenshot 2025-04-29 160626](https://github.com/user-attachments/assets/47fb276b-b0f8-4d18-9c9d-851504fb129c)
 
 
 
