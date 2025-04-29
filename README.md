@@ -57,19 +57,22 @@ The results are presented as triplets: the original MRI slice, the Grad-CAM heat
 ![Screenshot 2025-04-29 153348](https://github.com/user-attachments/assets/bc265def-7195-4938-99a9-b4953157306f)
 
 
+
 <br>
 
 In the mild infection scenario, the activation regions are more diffuse and spread across multiple small zones. This reflects the subtle and scattered nature of early-stage disease symptoms,
 which the model is attempting to capture.
 
 <br>
+![image](https://github.com/user-attachments/assets/cde93536-4c86-4075-ae02-727bf6df2cff)
 
 
 
 In the no infection case, the activation maps show sparse and low-intensity attention, suggesting the model finds no abnormal regions of interest.
 This aligns with expectations and confirms that the model is not falsely attributing significance to healthy tissue.
 
-![Screenshot 2025-04-29 153806](https://github.com/user-attachments/assets/a51c0bb6-f62d-4d39-9bc5-452e9371daea)
+![Screenshot 2025-04-29 154726](https://github.com/user-attachments/assets/8a94b49e-5ff3-4dbf-b059-d406f127a650)
+
 
 
 For severe infection, the heatmaps show strong, centralized, and spatially broader activation patterns. These regions likely correspond to extensive tissue damage or 
