@@ -64,7 +64,7 @@ which the model is attempting to capture.
 
 <br>
 
-![image](https://github.com/user-attachments/assets/5f188dd5-cebc-47bf-9af8-283291f0f6ea)
+
 
 In the no infection case, the activation maps show sparse and low-intensity attention, suggesting the model finds no abnormal regions of interest.
 This aligns with expectations and confirms that the model is not falsely attributing significance to healthy tissue.
