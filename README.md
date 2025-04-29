@@ -67,4 +67,4 @@ The results are presented as triplets: the original MRI slice, the Grad-CAM heat
 
 ## Future Work
 
-Some degree of attention spillover beyond the brain region is observed, particularly in severe cases. While the primary focus remains within the anatomical boundaries, applying brain masks in future iterations could refine these activations further.
+Some degree of attention spillover beyond the brain region is observed occasionally. While the primary focus remains within the anatomical boundaries, applying brain masks in future iterations could refine these activations further.
